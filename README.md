@@ -4,12 +4,12 @@
 <h3>I'm Sakthi Arunachalam </h3>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🎓 I’m studying computer science and eager to learn more
+- 🎓 I’m studying computer science and technologies
 - 🎨 I enjoy designing intuitive user interfaces                    
 - 🌱 I’m currently learning Flutter framework
 - 🌟 Aiming to land a job at a leading tech firm
-- 📫 Reach me @ ![<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sakthi-arunachalam-s-580b79242/) 
-<br />
+- 📫 Reach me @ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sakthi-arunachalam-s-580b79242/) 
+
 
 ### Tools&Languages
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
