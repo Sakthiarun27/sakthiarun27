@@ -8,8 +8,7 @@
 - 🎨 I enjoy designing intuitive user interfaces                    
 - 🌱 I’m currently learning Flutter framework
 - 🌟 Aiming to land a job at a leading tech firm
-- 📫 Reach me @
-<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sakthi-arunachalam-s-580b79242/) 
+- 📫 Reach me @ ![<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sakthi-arunachalam-s-580b79242/) 
 <br />
 
 ### Tools&Languages
