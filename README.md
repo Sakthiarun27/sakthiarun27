@@ -2,7 +2,8 @@
 
 
 <h3>I'm Sakthi Arunachalam </h3>
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="450" height="320" src="https://cdn.dribbble.com/users/1825657/screenshots/5563726/media/7ecd0cb7478b62eae08cb50d3754273c.gif">
+
 
 - 🎓 I’m studying computer science and technologies
 - 🎨 I enjoy designing intuitive user interfaces                    
